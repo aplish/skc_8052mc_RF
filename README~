@@ -1,0 +1,26 @@
+----------------------------------------------------------------
+--SECRET CODE ENABLED SECURE COMMUNICATION USING RF TECHNOLOGY--
+----------------------------------------------------------------
+
+* Secret Key Cryptography (SKC)
+
+-----------------------------------------------------
+    component  * specification 
+-----------------------------------------------------
+# microcontroler * Nuvoton W78E052
+# RF Transmitter/Receiver * R433A
+# encoder/decoder * HT12E/HT12D
+# voltage Regulation IC * 7805, 5V DC
+# LCD * 16X2
+# Crystal Oscillator * 11.0592 MHz
+# Zener Diode * 5V
+# PS/2 * 5 pin DIN
+# LED * Red, Green
+# Resistors * 47 ohm ,1 K,4.1 K ,10 K
+# Electrolytic Capacitors * 10uF,100uF,10000uF 
+# Ceramic Capacitors * 0.1uF 4 1
+# Wires and Connectors
+# Microcontroller Board
+# PCB
+
+
